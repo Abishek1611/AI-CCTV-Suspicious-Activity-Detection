@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel CCTV",
+  "description": "Smart CCTV monitoring with motion-based theft detection and instant alerts.",
+  "requestFramePermissions": ["camera"]
+}

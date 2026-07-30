@@ -1,2 +1,20 @@
-# AI-CCTV-Suspicious-Activity-Detection
-Developed an AI-powered CCTV surveillance system that leverages computer vision and deep learning to detect suspicious activities, identify potential security threats, and generate real-time alerts for enhanced monitoring and public safety.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/37886ab5-b496-45b8-b909-ab0501a74ff3
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
